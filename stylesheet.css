@@ -115,7 +115,7 @@ section {
 }
 
 span {
-    color: var(--main-color);
+    color: rgb(153, 11, 11);
 }
 
 .home-content h1 {
